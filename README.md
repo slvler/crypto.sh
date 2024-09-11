@@ -1,5 +1,6 @@
 ##
 
+### Usage
 ```shel
 chmod +x crypto.sh
 ./crypto.sh
