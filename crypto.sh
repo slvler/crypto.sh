@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# ___| |_   _| | ___ _ __ 
+#/ __| \ \ / / |/ _ \ '__|
+#\__ \ |\ V /| |  __/ |   
+#|___/_| \_/ |_|\___|_| 
+#A script written by slvler in September 2024 under GNU GENERAL PUBLIC LICENSE
+#
+
 NC=$'\e[0m'
 
 # Background
